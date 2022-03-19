@@ -11384,6 +11384,11 @@ p.lead {
     display: block;
   }
 }
+
+.cvs-link {
+    text-decoration:none;
+}
+
 .download-cvs {
     display: inline-flex;
     align-items: center;
