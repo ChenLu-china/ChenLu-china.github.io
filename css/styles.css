@@ -11386,6 +11386,7 @@ p.lead {
 }
 
 .cvs-link {
+    margin-right: 1.5rem;
     text-decoration:none;
 }
 
@@ -11395,8 +11396,11 @@ p.lead {
     justify-content: center;
     font-size: 1.5rem;
     margin-top: 1.5rem;
+    margin-right: 1.5rem;
 }
-
+.cvs-link:last-child {
+    margin-right: 0;
+}
 .social-icons .social-icon {
   display: inline-flex;
   align-items: center;
