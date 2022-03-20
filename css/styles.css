@@ -11398,6 +11398,12 @@ p.lead {
     text-decoration:none;
 }
 
+.cvs-title {
+    align-items: center;
+    justify-content: center;
+    margin-top: 1.5rem;
+    font-size: 1.5rem;
+}
 .download-cvs {
     display: inline-flex;
     align-items: center;
