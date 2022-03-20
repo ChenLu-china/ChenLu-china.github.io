@@ -11385,6 +11385,18 @@ p.lead {
   }
 }
 
+.video-1 {
+    width: "320",
+    height: "240",
+    margin-right: 0,
+}
+
+.video-2 {
+    width: "320",
+    height: "240",
+    margin-right: 2.5rem,
+}
+
 .cvs-link {
     margin-right: 1.5rem;
     text-decoration:none;
@@ -11398,9 +11410,11 @@ p.lead {
     margin-top: 1.5rem;
     margin-right: 1.5rem;
 }
+
 .cvs-link:last-child {
     margin-right: 0;
 }
+
 .social-icons .social-icon {
   display: inline-flex;
   align-items: center;
