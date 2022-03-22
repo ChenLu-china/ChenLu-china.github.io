@@ -87,7 +87,11 @@
                     <p>
                         We used the most popular 3D reconstruction method Neural Radiance Fields to reconstruct indoor
                         scenes, based on this reconstructed indoor scene, we want to freely manipulate any specified 3D
-                        object shape. Firstly, we
+                        object shape. Firstly, we segment objects that are annotated instance labels respectively in 3D space
+                        (aka Decomposing), then we design a set of algorithm to manipulate objects including scale up, scale down,
+                        object coordinate rotation, world coordinate rotation, translation (aka Manipulation).
+                        For our experiment, we use at least there dataset to implement our works, ScanNet and Replica are the normal real world
+                        and synthetic dataset respectively, furthermore, to show an excellent performance
                     </p>
                 </div>
                 <div class="flex-shrink-0"><span class="text-primary">June 2021 - Present</span></div>
