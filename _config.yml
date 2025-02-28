@@ -12,7 +12,7 @@ title                    : "LU CHEN / Site Title"
 title_separator          : "-"
 name                     : &name "LU CHEN"
 description              : &description "personal description"
-url                      : https://chenlu-china.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chenlu-china.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChenLu-china/chenlu-china.github.io"
 
